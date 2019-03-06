@@ -1,8 +1,8 @@
 ## Task Description
-#####Goal:
+##### Goal:
 1. Create stack service
 
-#####Tasks:
+##### Tasks:
 1. Build stack service
     * Server app acceptance criteria:
         1. Holds a unique stack for every user session
@@ -24,13 +24,13 @@
 3. Create a clear step-by-step guide how to get everything up and running
 4. Share the repositories and the guide with us: employme@fob-solutions.com
 
-####Technical requirements:
+#### Technical requirements:
 1. Server app: Java
 2. Client app: HTML, CSS, JavaScript/TypeScript
 
 • Everything else is up to you
 
-####Client app UI requirements:
+#### Client app UI requirements:
 1. Mobile-first approach
 2. User-friendly design
 
